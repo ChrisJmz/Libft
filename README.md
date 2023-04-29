@@ -1,0 +1,3 @@
+Projet d'école 42:
+
+ Le but de cette bibliothèque est de recréer certaines fonctions de la librairie standard du langage C, ainsi que d'ajouter de nouvelles fonctions qui peuvent être utiles dans différents projets en C. Les étudiants doivent implémenter ces fonctions eux-mêmes, sans utiliser les fonctions de la librairie standard. Le projet permet de développer une bonne compréhension de la programmation en C, de l'utilisation de pointeurs et de la gestion de la mémoire dynamique. La libft peut ensuite être utilisée dans différents projets en C pour faciliter le développement de code réutilisable.
